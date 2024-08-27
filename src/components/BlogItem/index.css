@@ -1,0 +1,35 @@
+.list-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 1px solid #9aa5b1;
+}
+
+.title-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.title {
+  font-size: 30px;
+  font-family: 'Roboto';
+  color: #12022f;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.description {
+  font-size: 20px;
+  font-family: 'Roboto';
+  color: #9aa5b1;
+  padding: 10px;
+  margin-top: 10px;
+}
+
+.publishedDate {
+  font-size: 20px;
+  font-family: 'Roboto';
+  color: #9aa5b1;
+  padding: 10px;
+  margin-top: 10px;
+}
